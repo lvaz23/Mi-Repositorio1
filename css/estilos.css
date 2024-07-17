@@ -2,8 +2,12 @@
 body{
     background-color: rgb(173, 94, 247);
 }
+img{
+    width: 100px;
+    height: 100px;
+}
 #confetti{
-	background: #000;
+	background: #b20ef3;
 	height: 100%;
 	left: 0px;
 	position: fixed;
